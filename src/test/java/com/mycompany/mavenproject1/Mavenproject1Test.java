@@ -25,7 +25,7 @@ public class Mavenproject1Test {
 
     @Test
     public void testSubtract() {
-        assertEquals(-1, math.subtract(2, 2), "Testing subtraction");
+        assertEquals(-1, math.subtract(2, 3), "Testing subtraction");
     }
 
     @Test
