@@ -19,7 +19,7 @@ public class Mavenproject1 {
         return a - b;
     }
 
-    // Method untuk perkalian (dengan code smell: unnecessary complexity)
+    // Method untuk perkalian (dengan code smell: unnecessary complexity)       
     public int multiply(int a, int b) {
         int result = 0;
         for (int i = 0; i < b; i++) {
