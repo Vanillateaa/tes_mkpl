@@ -13,7 +13,7 @@ public class Mavenproject1 {
     public int add(int a, int b) {
         return a + b;
     }
-
+  
     // Method untuk mengurangkan dua bilangan
     public int subtract(int a, int b) {
         return a - b;
